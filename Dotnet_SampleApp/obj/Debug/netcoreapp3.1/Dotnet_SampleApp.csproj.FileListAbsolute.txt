@@ -1,0 +1,14 @@
+C:\Users\parmar-rahul-ramesh\Desktop\Dotnet_sample\Dotnet_SampleApp\Dotnet_SampleApp\bin\Debug\netcoreapp3.1\Dotnet_SampleApp.exe
+C:\Users\parmar-rahul-ramesh\Desktop\Dotnet_sample\Dotnet_SampleApp\Dotnet_SampleApp\bin\Debug\netcoreapp3.1\Dotnet_SampleApp.deps.json
+C:\Users\parmar-rahul-ramesh\Desktop\Dotnet_sample\Dotnet_SampleApp\Dotnet_SampleApp\bin\Debug\netcoreapp3.1\Dotnet_SampleApp.runtimeconfig.json
+C:\Users\parmar-rahul-ramesh\Desktop\Dotnet_sample\Dotnet_SampleApp\Dotnet_SampleApp\bin\Debug\netcoreapp3.1\Dotnet_SampleApp.runtimeconfig.dev.json
+C:\Users\parmar-rahul-ramesh\Desktop\Dotnet_sample\Dotnet_SampleApp\Dotnet_SampleApp\bin\Debug\netcoreapp3.1\Dotnet_SampleApp.dll
+C:\Users\parmar-rahul-ramesh\Desktop\Dotnet_sample\Dotnet_SampleApp\Dotnet_SampleApp\bin\Debug\netcoreapp3.1\Dotnet_SampleApp.pdb
+C:\Users\parmar-rahul-ramesh\Desktop\Dotnet_sample\Dotnet_SampleApp\Dotnet_SampleApp\obj\Debug\netcoreapp3.1\Dotnet_SampleApp.csproj.AssemblyReference.cache
+C:\Users\parmar-rahul-ramesh\Desktop\Dotnet_sample\Dotnet_SampleApp\Dotnet_SampleApp\obj\Debug\netcoreapp3.1\Dotnet_SampleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\parmar-rahul-ramesh\Desktop\Dotnet_sample\Dotnet_SampleApp\Dotnet_SampleApp\obj\Debug\netcoreapp3.1\Dotnet_SampleApp.AssemblyInfoInputs.cache
+C:\Users\parmar-rahul-ramesh\Desktop\Dotnet_sample\Dotnet_SampleApp\Dotnet_SampleApp\obj\Debug\netcoreapp3.1\Dotnet_SampleApp.AssemblyInfo.cs
+C:\Users\parmar-rahul-ramesh\Desktop\Dotnet_sample\Dotnet_SampleApp\Dotnet_SampleApp\obj\Debug\netcoreapp3.1\Dotnet_SampleApp.csproj.CoreCompileInputs.cache
+C:\Users\parmar-rahul-ramesh\Desktop\Dotnet_sample\Dotnet_SampleApp\Dotnet_SampleApp\obj\Debug\netcoreapp3.1\Dotnet_SampleApp.dll
+C:\Users\parmar-rahul-ramesh\Desktop\Dotnet_sample\Dotnet_SampleApp\Dotnet_SampleApp\obj\Debug\netcoreapp3.1\Dotnet_SampleApp.pdb
+C:\Users\parmar-rahul-ramesh\Desktop\Dotnet_sample\Dotnet_SampleApp\Dotnet_SampleApp\obj\Debug\netcoreapp3.1\Dotnet_SampleApp.genruntimeconfig.cache
